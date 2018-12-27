@@ -1,0 +1,5 @@
+slmgr /ipk P9C2R-NM3BW-JR7DG-2R38J-D9MPF
+slmgr /skms kms.xspace.in
+slmgr /ato
+slmgr.vbs -xpr
+slmgr.vbs -dlv
